@@ -1,0 +1,1496 @@
+{
+  "abnf": {
+    "name": "ABNF",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "asc": {
+    "name": "Public Key",
+    "mimeType": "application/pgp",
+    "aliases": [
+      "asc"
+    ]
+  },
+  "as": {
+    "name": "AngelScript",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "as"
+    ]
+  },
+  "ada": {
+    "name": "Ada",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "angelscript": {
+    "name": "AngelScript",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "asc"
+    ]
+  },
+  "apacheconf": {
+    "name": "ApacheConf",
+    "mimeType": "text/plain",
+    "aliases": [
+      "apacheconf"
+    ]
+  },
+  "cls": {
+    "name": "Visual Basic",
+    "mimeType": "text/x-vb",
+    "aliases": [
+      "cos",
+      "cls"
+    ]
+  },
+  "applescript": {
+    "name": "AppleScript",
+    "mimeType": "text/plain",
+    "aliases": [
+      "osascript"
+    ]
+  },
+  "asciidoc": {
+    "name": "AsciiDoc",
+    "mimeType": "text/plain",
+    "aliases": [
+      "adoc"
+    ]
+  },
+  "adoc": {
+    "name": "AsciiDoc",
+    "mimeType": "text/plain",
+    "aliases": [
+      "adoc"
+    ]
+  },
+  "ahk": {
+    "name": "AutoHotkey",
+    "mimeType": "text/plain",
+    "aliases": [
+      "ahk"
+    ]
+  },
+  "awk": {
+    "name": "Awk",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "bat": {
+    "name": "Batchfile",
+    "mimeType": "text/plain",
+    "aliases": [
+      "bat",
+      "cmd"
+    ]
+  },
+  "cmd": {
+    "name": "Batchfile",
+    "mimeType": "text/plain",
+    "aliases": [
+      "bat",
+      "cmd"
+    ]
+  },
+  "bf": {
+    "name": "HyPhy",
+    "mimeType": "text/plain",
+    "aliases": [
+      "bf"
+    ]
+  },
+  "c": {
+    "name": "C",
+    "mimeType": "text/x-csrc",
+    "aliases": [
+      "c",
+      "h"
+    ]
+  },
+  "h": {
+    "name": "Objective-C",
+    "mimeType": "text/x-objectivec",
+    "aliases": [
+      "c",
+      "h"
+    ]
+  },
+  "cs": {
+    "name": "Smalltalk",
+    "mimeType": "text/x-stsrc",
+    "aliases": [
+      "cs",
+      "c#"
+    ]
+  },
+  "cpp": {
+    "name": "C++",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "c++": {
+    "name": "C++",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "cc": {
+    "name": "C++",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "cxx": {
+    "name": "C++",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "h++": {
+    "name": "C++",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "hh": {
+    "name": "Hack",
+    "mimeType": "application/x-httpd-php",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "hpp": {
+    "name": "C++",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "hxx": {
+    "name": "C++",
+    "mimeType": "text/x-c++src",
+    "aliases": [
+      "cc",
+      "c++",
+      "h++",
+      "hpp",
+      "hh",
+      "hxx",
+      "cxx"
+    ]
+  },
+  "re": {
+    "name": "Reason",
+    "mimeType": "text/x-rustsrc",
+    "aliases": [
+      "re"
+    ]
+  },
+  "cmake": {
+    "name": "CMake",
+    "mimeType": "text/x-cmake",
+    "aliases": [
+      "cmake.in"
+    ]
+  },
+  "cmake.in": {
+    "name": "CMake",
+    "mimeType": "text/x-cmake",
+    "aliases": [
+      "cmake.in"
+    ]
+  },
+  "cson": {
+    "name": "CSON",
+    "mimeType": "text/x-coffeescript",
+    "aliases": [
+      "coffee",
+      "cson",
+      "iced"
+    ]
+  },
+  "css": {
+    "name": "CSS",
+    "mimeType": "text/css",
+    "aliases": []
+  },
+  "capnp": {
+    "name": "Cap'n Proto",
+    "mimeType": "text/plain",
+    "aliases": [
+      "capnp"
+    ]
+  },
+  "ceylon": {
+    "name": "Ceylon",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "icl": {
+    "name": "Clean",
+    "mimeType": "text/plain",
+    "aliases": [
+      "clean",
+      "icl",
+      "dcl"
+    ]
+  },
+  "dcl": {
+    "name": "Clean",
+    "mimeType": "text/plain",
+    "aliases": [
+      "clean",
+      "icl",
+      "dcl"
+    ]
+  },
+  "clj": {
+    "name": "Clojure",
+    "mimeType": "text/x-clojure",
+    "aliases": [
+      "clj"
+    ]
+  },
+  "coffee": {
+    "name": "CoffeeScript",
+    "mimeType": "text/x-coffeescript",
+    "aliases": [
+      "coffee",
+      "cson",
+      "iced"
+    ]
+  },
+  "iced": {
+    "name": "CoffeeScript",
+    "mimeType": "text/x-coffeescript",
+    "aliases": [
+      "coffee",
+      "cson",
+      "iced"
+    ]
+  },
+  "lisp": {
+    "name": "NewLisp",
+    "mimeType": "text/x-common-lisp",
+    "aliases": []
+  },
+  "coq": {
+    "name": "Coq",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "v": {
+    "name": "Verilog",
+    "mimeType": "text/x-verilog",
+    "aliases": [
+      "v",
+      "sv",
+      "svh"
+    ]
+  },
+  "cr": {
+    "name": "Crystal",
+    "mimeType": "text/x-crystal",
+    "aliases": [
+      "cr"
+    ]
+  },
+  "d": {
+    "name": "Makefile",
+    "mimeType": "text/x-cmake",
+    "aliases": []
+  },
+  "zone": {
+    "name": "DNS Zone",
+    "mimeType": "text/plain",
+    "aliases": [
+      "bind",
+      "zone"
+    ]
+  },
+  "dart": {
+    "name": "Dart",
+    "mimeType": "application/dart",
+    "aliases": []
+  },
+  "diff": {
+    "name": "Diff",
+    "mimeType": "text/x-diff",
+    "aliases": [
+      "patch"
+    ]
+  },
+  "patch": {
+    "name": "Diff",
+    "mimeType": "text/x-diff",
+    "aliases": [
+      "patch"
+    ]
+  },
+  "dockerfile": {
+    "name": "Dockerfile",
+    "mimeType": "text/x-dockerfile",
+    "aliases": [
+      "docker"
+    ]
+  },
+  "ebnf": {
+    "name": "EBNF",
+    "mimeType": "text/x-ebnf",
+    "aliases": []
+  },
+  "elm": {
+    "name": "Elm",
+    "mimeType": "text/x-elm",
+    "aliases": []
+  },
+  "erl": {
+    "name": "Erlang",
+    "mimeType": "text/x-erlang",
+    "aliases": [
+      "erl"
+    ]
+  },
+  "fs": {
+    "name": "GLSL",
+    "mimeType": "text/plain",
+    "aliases": [
+      "fs"
+    ]
+  },
+  "f90": {
+    "name": "Fortran",
+    "mimeType": "text/x-fortran",
+    "aliases": [
+      "f90",
+      "f95"
+    ]
+  },
+  "f95": {
+    "name": "Fortran",
+    "mimeType": "text/x-fortran",
+    "aliases": [
+      "f90",
+      "f95"
+    ]
+  },
+  "gcode": {
+    "name": "G-code",
+    "mimeType": "text/plain",
+    "aliases": [
+      "nc"
+    ]
+  },
+  "gms": {
+    "name": "GAMS",
+    "mimeType": "text/plain",
+    "aliases": [
+      "gms"
+    ]
+  },
+  "md": {
+    "name": "Markdown",
+    "mimeType": "text/x-gfm",
+    "aliases": [
+      "md",
+      "mkdown",
+      "mkd"
+    ]
+  },
+  "glsl": {
+    "name": "GLSL",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "gml": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "gml",
+      "GML"
+    ]
+  },
+  "feature": {
+    "name": "Gherkin",
+    "mimeType": "text/plain",
+    "aliases": [
+      "feature"
+    ]
+  },
+  "go": {
+    "name": "Go",
+    "mimeType": "text/x-go",
+    "aliases": [
+      "golang"
+    ]
+  },
+  "golo": {
+    "name": "Golo",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "gradle": {
+    "name": "Gradle",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "groovy": {
+    "name": "Groovy",
+    "mimeType": "text/x-groovy",
+    "aliases": []
+  },
+  "html": {
+    "name": "HTML",
+    "mimeType": "text/html",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "st": {
+    "name": "Smalltalk",
+    "mimeType": "text/x-stsrc",
+    "aliases": [
+      "st"
+    ]
+  },
+  "xhtml": {
+    "name": "HTML",
+    "mimeType": "text/html",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "jinja": {
+    "name": "HTML+Django",
+    "mimeType": "text/x-django",
+    "aliases": [
+      "jinja"
+    ]
+  },
+  "erb": {
+    "name": "HTML+ERB",
+    "mimeType": "application/x-erb",
+    "aliases": []
+  },
+  "http": {
+    "name": "HTTP",
+    "mimeType": "message/http",
+    "aliases": [
+      "https"
+    ]
+  },
+  "php": {
+    "name": "PHP",
+    "mimeType": "application/x-httpd-php",
+    "aliases": [
+      "php",
+      "php3",
+      "php4",
+      "php5",
+      "php6",
+      "php7"
+    ]
+  },
+  "haml": {
+    "name": "Haml",
+    "mimeType": "text/x-haml",
+    "aliases": []
+  },
+  "handlebars": {
+    "name": "Handlebars",
+    "mimeType": "text/plain",
+    "aliases": [
+      "hbs",
+      "html.hbs",
+      "html.handlebars"
+    ]
+  },
+  "hbs": {
+    "name": "Handlebars",
+    "mimeType": "text/plain",
+    "aliases": [
+      "hbs",
+      "html.hbs",
+      "html.handlebars"
+    ]
+  },
+  "hs": {
+    "name": "Haskell",
+    "mimeType": "text/x-haskell",
+    "aliases": [
+      "hs"
+    ]
+  },
+  "hx": {
+    "name": "Haxe",
+    "mimeType": "text/x-haxe",
+    "aliases": [
+      "hx"
+    ]
+  },
+  "q": {
+    "name": "q",
+    "mimeType": "text/plain",
+    "aliases": [
+      "k",
+      "kdb"
+    ]
+  },
+  "hy": {
+    "name": "Hy",
+    "mimeType": "text/plain",
+    "aliases": [
+      "hylang"
+    ]
+  },
+  "ini": {
+    "name": "INI",
+    "mimeType": "text/x-properties",
+    "aliases": [
+      "toml"
+    ]
+  },
+  "properties": {
+    "name": "Java Properties",
+    "mimeType": "text/x-properties",
+    "aliases": []
+  },
+  "json": {
+    "name": "JSON",
+    "mimeType": "application/json",
+    "aliases": []
+  },
+  "jsx": {
+    "name": "JSX",
+    "mimeType": "text/jsx",
+    "aliases": [
+      "js",
+      "jsx",
+      "mjs",
+      "cjs"
+    ]
+  },
+  "java": {
+    "name": "Java",
+    "mimeType": "text/x-java",
+    "aliases": [
+      "jsp"
+    ]
+  },
+  "jsp": {
+    "name": "Java Server Pages",
+    "mimeType": "application/x-jsp",
+    "aliases": [
+      "jsp"
+    ]
+  },
+  "js": {
+    "name": "JavaScript",
+    "mimeType": "text/javascript",
+    "aliases": [
+      "js",
+      "jsx",
+      "mjs",
+      "cjs"
+    ]
+  },
+  "mjs": {
+    "name": "JavaScript",
+    "mimeType": "text/javascript",
+    "aliases": [
+      "js",
+      "jsx",
+      "mjs",
+      "cjs"
+    ]
+  },
+  "kt": {
+    "name": "Kotlin",
+    "mimeType": "text/x-kotlin",
+    "aliases": [
+      "kt"
+    ]
+  },
+  "lsl": {
+    "name": "LSL",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "lasso": {
+    "name": "Lasso",
+    "mimeType": "text/plain",
+    "aliases": [
+      "ls",
+      "lassoscript"
+    ]
+  },
+  "less": {
+    "name": "Less",
+    "mimeType": "text/css",
+    "aliases": []
+  },
+  "m": {
+    "name": "Objective-C",
+    "mimeType": "text/x-objectivec",
+    "aliases": [
+      "m",
+      "moo"
+    ]
+  },
+  "ls": {
+    "name": "LoomScript",
+    "mimeType": "text/plain",
+    "aliases": [
+      "ls"
+    ]
+  },
+  "lua": {
+    "name": "Lua",
+    "mimeType": "text/x-lua",
+    "aliases": []
+  },
+  "mak": {
+    "name": "Makefile",
+    "mimeType": "text/x-cmake",
+    "aliases": [
+      "mk",
+      "mak"
+    ]
+  },
+  "mk": {
+    "name": "Makefile",
+    "mimeType": "text/x-cmake",
+    "aliases": [
+      "mk",
+      "mak"
+    ]
+  },
+  "markdown": {
+    "name": "Markdown",
+    "mimeType": "text/x-gfm",
+    "aliases": [
+      "md",
+      "mkdown",
+      "mkd"
+    ]
+  },
+  "mkd": {
+    "name": "Markdown",
+    "mimeType": "text/x-gfm",
+    "aliases": [
+      "md",
+      "mkdown",
+      "mkd"
+    ]
+  },
+  "mkdown": {
+    "name": "Markdown",
+    "mimeType": "text/x-gfm",
+    "aliases": [
+      "md",
+      "mkdown",
+      "mkd"
+    ]
+  },
+  "mathematica": {
+    "name": "Mathematica",
+    "mimeType": "text/x-mathematica",
+    "aliases": [
+      "mma",
+      "wl"
+    ]
+  },
+  "wl": {
+    "name": "Mathematica",
+    "mimeType": "text/x-mathematica",
+    "aliases": [
+      "mma",
+      "wl"
+    ]
+  },
+  "matlab": {
+    "name": "Matlab",
+    "mimeType": "text/x-octave",
+    "aliases": []
+  },
+  "moo": {
+    "name": "Moocode",
+    "mimeType": "text/plain",
+    "aliases": [
+      "m",
+      "moo"
+    ]
+  },
+  "monkey": {
+    "name": "Monkey",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "moon": {
+    "name": "MoonScript",
+    "mimeType": "text/plain",
+    "aliases": [
+      "moon"
+    ]
+  },
+  "nginxconf": {
+    "name": "Nginx",
+    "mimeType": "text/x-nginx-conf",
+    "aliases": [
+      "nginxconf"
+    ]
+  },
+  "nim": {
+    "name": "Nim",
+    "mimeType": "text/plain",
+    "aliases": [
+      "nim"
+    ]
+  },
+  "nix": {
+    "name": "Nix",
+    "mimeType": "text/plain",
+    "aliases": [
+      "nixos"
+    ]
+  },
+  "ml": {
+    "name": "OCaml",
+    "mimeType": "text/x-ocaml",
+    "aliases": [
+      "ml"
+    ]
+  },
+  "mm": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "mm",
+      "objc",
+      "obj-c"
+    ]
+  },
+  "scad": {
+    "name": "OpenSCAD",
+    "mimeType": "text/plain",
+    "aliases": [
+      "scad"
+    ]
+  },
+  "oxygene": {
+    "name": "Oxygene",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "php3": {
+    "name": "PHP",
+    "mimeType": "application/x-httpd-php",
+    "aliases": [
+      "php",
+      "php3",
+      "php4",
+      "php5",
+      "php6",
+      "php7"
+    ]
+  },
+  "php4": {
+    "name": "PHP",
+    "mimeType": "application/x-httpd-php",
+    "aliases": [
+      "php",
+      "php3",
+      "php4",
+      "php5",
+      "php6",
+      "php7"
+    ]
+  },
+  "php5": {
+    "name": "PHP",
+    "mimeType": "application/x-httpd-php",
+    "aliases": [
+      "php",
+      "php3",
+      "php4",
+      "php5",
+      "php6",
+      "php7"
+    ]
+  },
+  "sql": {
+    "name": "SQLPL",
+    "mimeType": "text/x-sql",
+    "aliases": []
+  },
+  "pas": {
+    "name": "Pascal",
+    "mimeType": "text/x-pascal",
+    "aliases": [
+      "dpr",
+      "dfm",
+      "pas",
+      "pascal",
+      "freepascal",
+      "lazarus",
+      "lpr",
+      "lfm"
+    ]
+  },
+  "dfm": {
+    "name": "Pascal",
+    "mimeType": "text/x-pascal",
+    "aliases": [
+      "dpr",
+      "dfm",
+      "pas",
+      "pascal",
+      "freepascal",
+      "lazarus",
+      "lpr",
+      "lfm"
+    ]
+  },
+  "dpr": {
+    "name": "Pascal",
+    "mimeType": "text/x-pascal",
+    "aliases": [
+      "dpr",
+      "dfm",
+      "pas",
+      "pascal",
+      "freepascal",
+      "lazarus",
+      "lpr",
+      "lfm"
+    ]
+  },
+  "lpr": {
+    "name": "Pascal",
+    "mimeType": "text/x-pascal",
+    "aliases": [
+      "dpr",
+      "dfm",
+      "pas",
+      "pascal",
+      "freepascal",
+      "lazarus",
+      "lpr",
+      "lfm"
+    ]
+  },
+  "pascal": {
+    "name": "Pascal",
+    "mimeType": "text/x-pascal",
+    "aliases": [
+      "dpr",
+      "dfm",
+      "pas",
+      "pascal",
+      "freepascal",
+      "lazarus",
+      "lpr",
+      "lfm"
+    ]
+  },
+  "pp": {
+    "name": "Puppet",
+    "mimeType": "text/x-puppet",
+    "aliases": [
+      "pp"
+    ]
+  },
+  "pl": {
+    "name": "Prolog",
+    "mimeType": "text/plain",
+    "aliases": [
+      "pl",
+      "pm"
+    ]
+  },
+  "perl": {
+    "name": "Perl",
+    "mimeType": "text/x-perl",
+    "aliases": [
+      "pl",
+      "pm"
+    ]
+  },
+  "pm": {
+    "name": "X PixMap",
+    "mimeType": "text/x-csrc",
+    "aliases": [
+      "pl",
+      "pm"
+    ]
+  },
+  "pony": {
+    "name": "Pony",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "ps": {
+    "name": "PostScript",
+    "mimeType": "text/plain",
+    "aliases": [
+      "ps",
+      "ps1"
+    ]
+  },
+  "ps1": {
+    "name": "PowerShell",
+    "mimeType": "application/x-powershell",
+    "aliases": [
+      "ps",
+      "ps1"
+    ]
+  },
+  "prolog": {
+    "name": "Prolog",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "pb": {
+    "name": "PureBasic",
+    "mimeType": "text/plain",
+    "aliases": [
+      "pb",
+      "pbi"
+    ]
+  },
+  "pbi": {
+    "name": "PureBasic",
+    "mimeType": "text/plain",
+    "aliases": [
+      "pb",
+      "pbi"
+    ]
+  },
+  "py": {
+    "name": "Python",
+    "mimeType": "text/x-python",
+    "aliases": [
+      "py",
+      "gyp",
+      "ipython"
+    ]
+  },
+  "gyp": {
+    "name": "Python",
+    "mimeType": "text/x-python",
+    "aliases": [
+      "py",
+      "gyp",
+      "ipython"
+    ]
+  },
+  "qml": {
+    "name": "QML",
+    "mimeType": "text/plain",
+    "aliases": [
+      "qt"
+    ]
+  },
+  "r": {
+    "name": "Rebol",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "rs": {
+    "name": "Rust",
+    "mimeType": "text/x-rustsrc",
+    "aliases": [
+      "rs"
+    ]
+  },
+  "rb": {
+    "name": "Ruby",
+    "mimeType": "text/x-ruby",
+    "aliases": [
+      "rb",
+      "gemspec",
+      "podspec",
+      "thor",
+      "irb"
+    ]
+  },
+  "gemspec": {
+    "name": "Ruby",
+    "mimeType": "text/x-ruby",
+    "aliases": [
+      "rb",
+      "gemspec",
+      "podspec",
+      "thor",
+      "irb"
+    ]
+  },
+  "podspec": {
+    "name": "Ruby",
+    "mimeType": "text/x-ruby",
+    "aliases": [
+      "rb",
+      "gemspec",
+      "podspec",
+      "thor",
+      "irb"
+    ]
+  },
+  "ruby": {
+    "name": "Ruby",
+    "mimeType": "text/x-ruby",
+    "aliases": [
+      "rb",
+      "gemspec",
+      "podspec",
+      "thor",
+      "irb"
+    ]
+  },
+  "thor": {
+    "name": "Ruby",
+    "mimeType": "text/x-ruby",
+    "aliases": [
+      "rb",
+      "gemspec",
+      "podspec",
+      "thor",
+      "irb"
+    ]
+  },
+  "sas": {
+    "name": "SAS",
+    "mimeType": "text/x-sas",
+    "aliases": [
+      "sas",
+      "SAS"
+    ]
+  },
+  "scss": {
+    "name": "SCSS",
+    "mimeType": "text/x-scss",
+    "aliases": []
+  },
+  "sqf": {
+    "name": "SQF",
+    "mimeType": "text/plain",
+    "aliases": [
+      "sqf"
+    ]
+  },
+  "svg": {
+    "name": "SVG",
+    "mimeType": "text/xml",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "scala": {
+    "name": "Scala",
+    "mimeType": "text/x-scala",
+    "aliases": []
+  },
+  "sci": {
+    "name": "Scilab",
+    "mimeType": "text/plain",
+    "aliases": [
+      "sci"
+    ]
+  },
+  "sh": {
+    "name": "Shell",
+    "mimeType": "text/x-sh",
+    "aliases": [
+      "sh",
+      "zsh"
+    ]
+  },
+  "bash": {
+    "name": "Shell",
+    "mimeType": "text/x-sh",
+    "aliases": [
+      "sh",
+      "zsh"
+    ]
+  },
+  "zsh": {
+    "name": "Shell",
+    "mimeType": "text/x-sh",
+    "aliases": [
+      "sh",
+      "zsh"
+    ]
+  },
+  "smali": {
+    "name": "Smali",
+    "mimeType": "text/plain",
+    "aliases": [
+      "smali"
+    ]
+  },
+  "stan": {
+    "name": "Stan",
+    "mimeType": "text/plain",
+    "aliases": [
+      "stanfuncs"
+    ]
+  },
+  "ML": {
+    "name": "Standard ML",
+    "mimeType": "text/x-ocaml",
+    "aliases": [
+      "ml"
+    ]
+  },
+  "sml": {
+    "name": "Standard ML",
+    "mimeType": "text/x-ocaml",
+    "aliases": [
+      "ml"
+    ]
+  },
+  "do": {
+    "name": "Stata",
+    "mimeType": "text/plain",
+    "aliases": [
+      "do",
+      "ado"
+    ]
+  },
+  "ado": {
+    "name": "Stata",
+    "mimeType": "text/plain",
+    "aliases": [
+      "do",
+      "ado"
+    ]
+  },
+  "styl": {
+    "name": "Stylus",
+    "mimeType": "text/plain",
+    "aliases": [
+      "styl"
+    ]
+  },
+  "swift": {
+    "name": "Swift",
+    "mimeType": "text/x-swift",
+    "aliases": []
+  },
+  "sv": {
+    "name": "SystemVerilog",
+    "mimeType": "text/x-systemverilog",
+    "aliases": [
+      "v",
+      "sv",
+      "svh"
+    ]
+  },
+  "svh": {
+    "name": "SystemVerilog",
+    "mimeType": "text/x-systemverilog",
+    "aliases": [
+      "v",
+      "sv",
+      "svh"
+    ]
+  },
+  "toml": {
+    "name": "TOML",
+    "mimeType": "text/x-toml",
+    "aliases": [
+      "toml"
+    ]
+  },
+  "tcl": {
+    "name": "Tcl",
+    "mimeType": "text/x-tcl",
+    "aliases": [
+      "tk"
+    ]
+  },
+  "tex": {
+    "name": "TeX",
+    "mimeType": "text/x-stex",
+    "aliases": [
+      "tex"
+    ]
+  },
+  "txt": {
+    "name": "Plain text",
+    "mimeType": "text/plain",
+    "aliases": [
+      "txt",
+      "plain",
+      "text",
+      "apt"
+    ]
+  },
+  "thrift": {
+    "name": "Thrift",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "twig": {
+    "name": "Twig",
+    "mimeType": "text/x-twig",
+    "aliases": [
+      "craftcms"
+    ]
+  },
+  "ts": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "ts"
+    ]
+  },
+  "vhdl": {
+    "name": "VHDL",
+    "mimeType": "text/x-vhdl",
+    "aliases": []
+  },
+  "vala": {
+    "name": "Vala",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "vim": {
+    "name": "Vim script",
+    "mimeType": "text/plain",
+    "aliases": []
+  },
+  "vb": {
+    "name": "Visual Basic",
+    "mimeType": "text/x-vb",
+    "aliases": [
+      "vb"
+    ]
+  },
+  "vbs": {
+    "name": "Visual Basic",
+    "mimeType": "text/x-vb",
+    "aliases": [
+      "vbs"
+    ]
+  },
+  "xml": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "plist": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "rss": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "wsf": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "xsd": {
+    "name": "XML",
+    "mimeType": "text/xml",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "xquery": {
+    "name": "XQuery",
+    "mimeType": "application/xquery",
+    "aliases": [
+      "xpath",
+      "xq"
+    ]
+  },
+  "xq": {
+    "name": "XQuery",
+    "mimeType": "application/xquery",
+    "aliases": [
+      "xpath",
+      "xq"
+    ]
+  },
+  "xsl": {
+    "name": "XSLT",
+    "mimeType": "text/xml",
+    "aliases": [
+      "html",
+      "xhtml",
+      "rss",
+      "atom",
+      "xjb",
+      "xsd",
+      "xsl",
+      "plist",
+      "wsf",
+      "svg"
+    ]
+  },
+  "yml": {
+    "name": "YAML",
+    "mimeType": "text/x-yaml",
+    "aliases": [
+      "yml",
+      "YAML"
+    ]
+  },
+  "yaml": {
+    "name": "YAML",
+    "mimeType": "text/x-yaml",
+    "aliases": [
+      "yml",
+      "YAML"
+    ]
+  },
+  "zep": {
+    "name": "Zephir",
+    "mimeType": "text/plain",
+    "aliases": [
+      "zep"
+    ]
+  },
+  "nc": {
+    "name": "nesC",
+    "mimeType": "text/plain",
+    "aliases": [
+      "nc"
+    ]
+  }
+}

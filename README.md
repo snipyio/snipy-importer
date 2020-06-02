@@ -1,27 +1,34 @@
-# TSDX Bootstrap
+# Snipy Importer
 
-This project was bootstrapped with [TSDX](https://github.com/jaredpalmer/tsdx).
+[![asciicast](https://asciinema.org/a/DWGG308QH4mp8UkU2UuS6YYOv.svg)](https://asciinema.org/a/DWGG308QH4mp8UkU2UuS6YYOv)
 
-## Local Development
+This handy CLI tool will help you import your code from various services into Snipy. To use it:
 
-Below is a list of commands you will probably find useful.
+Install dependencies:
 
-### `npm start` or `yarn start`
+    yarn install
 
-Runs the project in development/watch mode. Your project will be rebuilt upon changes. TSDX has a special logger for you convenience. Error messages are pretty printed and formatted for compatibility VS Code's Problems tab.
+Run interactive importer:
 
-<img src="https://user-images.githubusercontent.com/4060187/52168303-574d3a00-26f6-11e9-9f3b-71dbec9ebfcb.gif" width="600" />
+    yarn cli
 
-Your library will be rebuilt if you make edits.
+## Snipy API key
 
-### `npm run build` or `yarn build`
+To use this tool, you will need Snipy API credentials. Since our API is not yet available to the public (you can access it, but it's not supported ;), you can use your login token, which you can get by following these steps:
 
-Bundles the package to the `dist` folder.
-The package is optimized and bundled with Rollup into multiple formats (CommonJS, UMD, and ES Module).
+- Open the _Keychain Access_ app on your Mac
+- Pick _Login_ keychain and find `snipy-auth` authentication credentials
+- Double-click it and reveal the token to use during the import process
 
-<img src="https://user-images.githubusercontent.com/4060187/52168322-a98e5b00-26f6-11e9-8cf6-222d716b75ef.gif" width="600" />
+## Importers
 
-### `npm test` or `yarn test`
+The following importers are supported:
 
-Runs the test watcher (Jest) in an interactive mode.
-By default, runs tests related to files changed since the last commit.
+### GitHub Gist
+
+All your public and private Gists will be imported into a Snippet collection, which will be automatically created.
+To use this importer, have your [personal GitHub access token](https://github.com/settings/tokens) with a `gist` scope ready.
+
+## References
+
+The source code for this tool is heavily based on the excellent work from the team at [Linear](https://github.com/linearapp/linear-import) 🙌.
